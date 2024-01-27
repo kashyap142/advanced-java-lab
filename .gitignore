@@ -1,0 +1,10 @@
+# vs code
+.vscode
+
+# eclipse
+.metadata
+*/.settings
+*/bin
+*/.classpath
+*/.project
+*/src/module-info.java
