@@ -8,3 +8,10 @@
 */.classpath
 */.project
 */src/module-info.java
+/Servers
+*/.gitignore
+pgm11_tax/record.txt
+jar-files/apache-*
+
+*/src/main/webapp/meta-inf
+*/src/main/webapp/web-inf
